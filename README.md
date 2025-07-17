@@ -25,8 +25,8 @@ The goal is to uncover trends in content type, release year, and duration.
 ---
 
 ## 📁 Project Structure
-Netflix-EDA/
-├── Netflix_EDA.ipynb ← Main analysis notebook
+Netflix-EDA <br>
+├── Netflix_EDA.ipynb ← Main analysis notebook <br>
 ├── README.md ← Project overview and insights
 
 ---
